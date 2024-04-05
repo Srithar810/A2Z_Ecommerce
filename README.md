@@ -1,4 +1,4 @@
-1.Navigate to your project directory.
+1.Navigate to your project directory./n
 2.Activate your virtual environment (if applicable).
 3.Install project dependencies (pip install -r requirements.txt).
 4.Apply migrations (python manage.py migrate).
